@@ -6,7 +6,7 @@ MSc Economics and Finance student at Charles University in Prague. My projects c
 
 ### Projects
 
-**[Charter](https://github.com/BalkoMatus/Charter)** · [try it](https://balkomatus.github.io/Charter/)  
+**[Charter](https://github.com/BalkoMatus/Charter)** 
 Standardized Charting. Reads an Excel model and writes native, formula-linked charts back into the workbook, so every exhibit updates when the numbers change. Code written with the help of Claude.
 
 **[Markowitz portfolio optimizer](https://github.com/BalkoMatus/Markowitz-Portfolio-Optimizer)**  
