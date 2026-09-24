@@ -6,11 +6,14 @@ MSc Economics and Finance student at Charles University in Prague. My projects c
 
 ### Projects
 
-**[Charter](https://github.com/BalkoMatus/Charter)** 
+**[Charter](https://github.com/BalkoMatus/Charter)**\
 Standardized Charting. Reads an Excel model and writes native, formula-linked charts back into the workbook, so every exhibit updates when the numbers change. Code written with the help of Claude.
 
-**[Markowitz portfolio optimizer](https://github.com/BalkoMatus/Markowitz-Portfolio-Optimizer)**  
+**[Markowitz portfolio optimizer](https://github.com/BalkoMatus/Markowitz-Portfolio-Optimizer)**\
 Mean-variance optimization in Excel and VBA, with Monte Carlo simulation, the efficient frontier and the tangency portfolio.
+
+**[Ferrari credit application](https://github.com/BalkoMatus/Ferrari-Credit-Application)**\
+Credit application for a hypothetical €1.1bn term loan to Ferrari N.V., with an integrated three-statement Excel model that tests the loan's effect on leverage and debt service.
 
 ### In progress
 
